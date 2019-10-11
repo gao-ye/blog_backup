@@ -5,11 +5,13 @@
       <% var count = 0; %>
       <% for (var i in (theme.follow_mes)){ %>
         <% count++; %>
-        <% if (count == 1){ %>
+        <!-- <% if (count == 1){ %>
           <div style="text-align: center;">
-            <img src="<%= theme.follow_mes[i] %>" style="width: 100%; max-width: 250px;">
+            <img src="<%= theme.follow_mes[i] %>" style="width: 100%; max-width: 100px;">
+             
+             <img src="https://s2.ax1x.com/2019/05/07/ErhHTP.md.jpg" style="width: 100%; max-width: 180px;">
           </div>
-        <% } %>
+        <% } %> -->
         <li>
           <a href="<%- theme.follow_mes[i] %>" target="_blank"><%= count %>. <%= i %></a>
         </li>
