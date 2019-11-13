@@ -16,7 +16,7 @@ widgets:
 - category
 - follow_mes
 - archive
-- recent_comments
+# - recent_comments
 - recent_posts
 - links
 
@@ -44,7 +44,7 @@ baidushare: true
 baidu_tongji: true
 
 # 文章尾部声明
-statement: true
+statement: false
 statement_img: https://s2.ax1x.com/2019/05/07/ErhHTP.md.jpg
 
 
