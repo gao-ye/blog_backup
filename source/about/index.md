@@ -6,6 +6,8 @@ type: "about"
 
 高烨，西北工业大学计算机学院2016级本科生
 
+心之所向，一苇以航
+
 
 
 [![E70BIH.md.jpg](https://s2.ax1x.com/2019/05/15/E70BIH.md.jpg)](https://imgchr.com/i/E70BIH) 
