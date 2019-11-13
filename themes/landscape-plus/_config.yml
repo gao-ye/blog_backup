@@ -14,24 +14,17 @@ mathjax: false
 sidebar: right
 widgets:
 - category
-# - tagcloud
 - follow_mes
-# - recommend_posts
 - archive
 - recent_comments
-
-# - official_accounts
 - recent_posts
-# - tag
 - links
 
 # Links
 links:
   SegmentFault: https://segmentfault.com/
 
-# recommend_posts
-recommend_posts:
-  《JavaScript 闯关记》: /2016/07/24/javascript-lesson-readme/
+
 
 # Miscellaneous
 google_analytics:
@@ -53,11 +46,8 @@ baidu_tongji: true
 # 文章尾部声明
 statement: true
 statement_img: https://s2.ax1x.com/2019/05/07/ErhHTP.md.jpg
-# https://s2.ax1x.com/2019/05/07/ErhHTP.md.jpg
 
-# 微信公众
-# official_accounts_img: https://s2.ax1x.com/2019/05/07/ErhHTP.md.jpg
-# official_accounts_text: 订阅「石佳劼的博客」
+
 
 # 关注我
 follow_mes:
@@ -66,6 +56,7 @@ follow_mes:
   我的「博客园」: https://www.cnblogs.com/yeran
   我的「V2EX」: https://www.v2ex.com/member/gaoyexyz
   我的「GitHub」: https://github.com/gao-ye
+  我的「主页」: https://gaoye.xyz
 
 # 网站备案号
 website_icp: 皖ICP备19015192号
